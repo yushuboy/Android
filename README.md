@@ -1,5 +1,8 @@
 # facedetection
 
+项目使用的余老师的libfacedetection库进行人脸检测，已集合了opencv
+
+
 Just transport this lib to Andtoid and run successful with some optimization.
 
 I also build an apk in the Android/release folder so you can just install on your android device to test it.
